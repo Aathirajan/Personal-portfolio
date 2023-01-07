@@ -19,9 +19,7 @@ const About = () => {
           <br /> <br />
           <p className="text-xl">
             I have experience building and designing Full Stack applications
-            using JavaScript, React and nodeJs. When not coding, I love to be
-            outdoors; Going to the beach, hiking, playing sports. My favorite
-            hobbies are gaming and trying new food. My goal to future is to leverage
+            using JavaScript, React and nodeJs. My goal to future is to leverage
             my experience in programming and to have something useful to leave behind.
              
           </p>
