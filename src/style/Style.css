@@ -1,0 +1,14 @@
+.button {
+    background-color: #5278f2;
+    box-shadow: #094c66 5px 5px 0px;
+    transition: transform 300ms, box-shadow 300ms;
+    /* border-radius: 4px; */
+    /* width: fit-content; */
+    /* padding: .7rem 1.5rem; */
+    /* cursor: pointer; */
+  }
+  
+  .button:active {
+    transform: translateY(4px) translateX(4px);
+    box-shadow: #094c66 0px 0px 0px;
+  }
