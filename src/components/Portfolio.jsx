@@ -70,7 +70,7 @@ const Portfolio = () => {
           <p className=' text-4xl font-bold inline border-b-4  border-gray-500'>Portfolio</p>
           <p className='font-signature py-6'>Check some of my work right here.</p>
         </div>
-        <div className=' grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0'> 
+        <div className=' grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-7 sm:px-0'> 
         {
           portfolios.map(({id, src, name, tech, ghLink}) => (
             
