@@ -15,7 +15,7 @@ const Home = () => {
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-4xl sm:text-6xl font-bold text-white">
             <span>Hello World!</span><br></br>
-             <span>I'm Aathi Rajan, a Full Stack Developer based in Sivakasi,India</span>
+             <span>I'm Aathi Rajan, a Full Stack Developer based in India</span>
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
             {/* Never compare yourself with others... */}

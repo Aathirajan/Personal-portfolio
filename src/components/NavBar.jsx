@@ -30,7 +30,7 @@ const NavBar = () => {
         },
         {
             id: 4,
-            link: 'experience',
+            link: 'stacks',
             style: 'hover:text-[#FBBF47]'
         },
         {
