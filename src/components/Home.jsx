@@ -18,12 +18,12 @@ const Home = () => {
              <span>I'm Aathi Rajan, a Full Stack Developer based in India</span>
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            {/* Never compare yourself with others... */}
+            
           </p>
 
           <div>
             <Link to="portfolio" smooth duration={800}
-             className="font-signature text-white w-fit px-6 py-3 my-2 flex items-center rounded-md cursor-pointer bg-[#ffb703]">
+             className="font-signature text-[#00171F] w-fit px-6 py-3 my-2 flex items-center rounded-md cursor-pointer bg-[#ffb703]">
               Portfolio
               <span className="group-hover:rotate-90 duration-300">
                 <MdOutlineKeyboardArrowRight size={25} className="ml-1" />
